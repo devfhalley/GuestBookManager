@@ -22,8 +22,8 @@ A Python desktop application for managing guest book entries with a Tkinter grap
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/guestbook-app.git
-   cd guestbook-app
+   git clone https://github.com/devfhalley/GuestBookManager.git
+   cd GuestBookManager
    ```
 
 2. Run the application:
